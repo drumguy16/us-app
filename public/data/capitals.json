@@ -2,204 +2,254 @@
   "states": [
     {
      "state": "Alabama",
-      "capital": "Montgomery"
+      "capital": "Montgomery",
+      "key": "1"
     },
     {
       "state": "Alaska",
-      "capital": "Juneau"
+      "capital": "Juneau",
+      "key": "2"
     },
     {
       "state": "Arizona",
-      "capital": "Phoenix"
+      "capital": "Phoenix",
+      "key": "3"
     },
     {
       "state": "Arkansas",
-      "capital": "Little Rock"
+      "capital": "Little Rock",
+      "key": "4"
     },
     {
       "state": "California",
-      "capital": "Sacramento"
+      "capital": "Sacramento",
+      "key": "5"
     },
     {
       "state": "Colorado",
-      "capital": "Denver"
+      "capital": "Denver",
+      "key": "6"
     },
     {
       "state": "Connecticut",
-      "capital": "Hartford"
+      "capital": "Hartford",
+      "key": "7"
     },
     {
       "state": "Delaware",
-      "capital": "Dover"
+      "capital": "Dover",
+      "key": "8"
     },
     {
       "state": "Florida",
-      "capital": "Tallahassee"
+      "capital": "Tallahassee",
+      "key": "9"
     },
     {
       "state": "Georgia",
-      "capital": "Atlanta"
+      "capital": "Atlanta",
+      "key": "10"
     },
     {
       "state": "Hawaii",
-      "capital": "Honolulu"
+      "capital": "Honolulu",
+      "key": "11"
     },
     {
       "state": "Idaho",
-      "capital": "Boise"
+      "capital": "Boise",
+      "key": "12"
     },
     {
-      "state": "Illinoise",
-      "capital": "Springfield"
+      "state": "Illinois",
+      "capital": "Springfield",
+      "key": "13"
     },
     {
       "state": "Indiana",
-      "capital": "Indianapolis"
+      "capital": "Indianapolis",
+      "key": "51"
     },
     {
       "state": "Iowa",
-      "capital": "DesMoines"
+      "capital": "DesMoines",
+      "key": "14"
     },
     {
       "state": "Kansas",
-      "capital": "Topeka"
+      "capital": "Topeka",
+      "key": "15"
     },
     {
       "state": "Kentucky",
-      "capital": "Frankfort"
+      "capital": "Frankfort",
+      "key": "16"
     },
     {
       "state": "Louisiana",
-      "capital": "BatonRouge"
+      "capital": "BatonRouge",
+      "key": "17"
     },
     {
       "state": "Maine",
-      "capital": "Augusta"
+      "capital": "Augusta",
+      "key": "18"
     },
     {
       "state": "Maryland",
-      "capital": "Annapolis"
+      "capital": "Annapolis",
+      "key": "19"
     },
     {
       "state": "Massachusetts",
-      "capital": "Boston"
+      "capital": "Boston",
+      "key": "20"
     },
     {
       "state": "Michigan",
-      "capital": "Lansing"
+      "capital": "Lansing",
+      "key": "21"
     },
     {
       "state": "Minnesota",
-      "capital": "St. Paul"
+      "capital": "St. Paul",
+      "key": "22"
     },
     {
       "state": "Mississippi",
-      "capital": "Jackson"
+      "capital": "Jackson",
+      "key": "23"
     },  
     {
       "state": "Missouri",
-      "capital": "Jefferson City'"
+      "capital": "Jefferson City'",
+      "key": "24"
     },
     {
       "state": "Montana",
-      "capital": "Helena"
+      "capital": "Helena",
+      "key": "25"
     },
     {
       "state": "Nebraska",
-      "capital": "Lincoln"
+      "capital": "Lincoln",
+      "key": "26"
     },
     {
       "state": "Nevada",
-      "capital": "Carson City"
+      "capital": "Carson City",
+      "key": "28"
     },
     {
       "state": "New Hampshire",
-      "capital": "Concord"
+      "capital": "Concord",
+      "key": "29"
     },
     {
       "state": "New Jersey",
-      "capital": "Trenton"
+      "capital": "Trenton",
+      "key": "30"
     },
     {
       "state": "New Mexico",
-      "capital": "SantaFe"
+      "capital": "SantaFe",
+      "key": "31"
     },
     {
       "state": "New York",
-      "capital": "Albany"
+      "capital": "Albany",
+      "key": "32"
     },
     {
       "state": "North Carolina",
-      "capital": "Raleigh"
+      "capital": "Raleigh",
+      "key": "33"
     },
     {
       "state": "North Dakota",
-      "capital": "Bismarck"
+      "capital": "Bismarck",
+      "key": "34"
     },
     {
       "state": "Ohio",
-      "capital": "Columbus"
+      "capital": "Columbus",
+      "key": "35"
     },
     {
       "state": "Oklahoma",
-      "capital": "Oklahoma City"
+      "capital": "Oklahoma City",
+      "key": "36"
     },
     {
       "state": "Oregon",
-      "capital": "Salem"
+      "capital": "Salem",
+      "key": "37"
     },
     {
       "state": "Pennsylvania",
-      "capital": "Harrisburg"
+      "capital": "Harrisburg",
+      "key": "38"
     },
     {
       "state": "Rhode Island",
-      "capital": "Providence"
+      "capital": "Providence",
+      "key": "39"
     },
     {
       "state": "South Carolina",
-      "capital": "Columbia"
+      "capital": "Columbia",
+      "key": "40"
     },
     {
       "state": "South Dakota",
-      "capital": "Pierre"
+      "capital": "Pierre",
+      "key": "41"
     },
     {
       "state": "Tennessee",
-      "capital": "Nashville"
+      "capital": "Nashville",
+      "key": "42"
     },
     {
       "state": "Texas",
-      "capital": "Austin"
+      "capital": "Austin",
+      "key": "43"
     },
     {
       "state": "Utah",
-      "capital": "Salt Lake City"
+      "capital": "Salt Lake City",
+      "key": "44"
     },
     {
       "state": "Vermont",
-      "capital": "Montpelier"
+      "capital": "Montpelier",
+      "key": "45"
     },
     {
       "state": "Virginia",
-      "capital": "Richmond"
+      "capital": "Richmond",
+      "key": "46"
     },
     {
       "state": "Washington",
-      "capital": "Olympia"
+      "capital": "Olympia",
+      "key": "47"
     },
     {
       "state": "West Virginia",
-      "capital": "Charleston"
+      "capital": "Charleston",
+      "key": "48"
     },
     {
       "state": "Wisconsin",
-      "capital": "Madison"
+      "capital": "Madison",
+      "key": "49"
     },
     {
       "state": "Wyoming",
-      "capital": "Cheyenne"
-    },
+      "capital": "Cheyenne",
+      "key": "50"
+    }
 
   ]
 }
