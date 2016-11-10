@@ -1,0 +1,73 @@
+{
+  "name": "us-app",
+  "version": "1.0.0",
+  "description": "A two day workshop on a complete intro to React",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require test/helpers/setup.js",
+    "lint": "standard",
+    "build": "webpack",
+    "cover": "nyc --reporter=lcov --reporter=text --reporter=html --require babel-register --extension .jsx npm test",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --progress --inline --hot --history-api-fallback"
+  },
+  "author": "Brian Holt <btholt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.9.1",
+    "express": "4.13.4",
+    "latest-version": "^2.0.0",
+    "lodash": "4.6.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.4.0",
+    "react-router": "^2.0.0",
+    "redux": "^3.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.2",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-register": "^6.5.2",
+    "chai": "^3.5.0",
+    "css-loader": "^0.25.0",
+    "enzyme": "^2.0.0",
+    "eslint": "^2.2.0",
+    "eslint-config-standard": "^5.1.0",
+    "eslint-config-standard-jsx": "^1.1.1",
+    "eslint-config-standard-react": "^2.3.0",
+    "eslint-loader": "^1.3.0",
+    "eslint-plugin-promise": "^1.0.8",
+    "eslint-plugin-react": "^4.1.0",
+    "eslint-plugin-standard": "^1.3.2",
+    "jsdom": "^8.0.4",
+    "json-loader": "^0.5.4",
+    "mocha": "^2.4.5",
+    "nyc": "^6.0.0",
+    "react-addons-test-utils": "^0.14.7",
+    "react-hot-loader": "^3.0.0-beta.6",
+    "sinon": "^1.17.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drumguy16/us-app.git"
+  },
+  "keywords": [
+    "react",
+    "workshop",
+    "intro",
+    "redux"
+  ],
+  "bugs": {
+    "url": "https://github.com/btholt/complete-intro-to-react/issues"
+  },
+  "homepage": "https://github.com/btholt/complete-intro-to-react#readme"
+}
