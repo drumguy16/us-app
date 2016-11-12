@@ -1,5 +1,5 @@
 const React = require('react')
-import {Col} from 'react-bootstrap'
+const {Col} = require('react-bootstrap')
 
 const CapitalCard = React.createClass({
   propTypes: {
@@ -8,7 +8,12 @@ const CapitalCard = React.createClass({
     correct: React.PropTypes.bool.isRequired,
     handleClick: React.PropTypes.func.isRequired
   },
-  handleClick () {
+  handleClick (event) {
+    if (this.props.correct) {
+      event.target.className += ' correct'
+    } else {
+      console.log('fuck beans')
+    }
     this.props.handleClick(this.props.id)
   },
   render (props) {
