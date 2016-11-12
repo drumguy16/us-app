@@ -1,0 +1,17 @@
+.state-card {
+  width: 20em;
+  height: 10em;
+}
+
+.state-pile {
+  height : 10em;
+}
+
+.state-card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgb(53, 174, 222);
+  clear:  both;
+}
+

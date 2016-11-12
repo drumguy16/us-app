@@ -1,252 +1,252 @@
 {
   "states": [
     {
-     "state": "Alabama",
+     "stateName": "Alabama",
       "capital": "Montgomery",
       "key": "1"
     },
     {
-      "state": "Alaska",
+      "stateName": "Alaska",
       "capital": "Juneau",
       "key": "2"
     },
     {
-      "state": "Arizona",
+      "stateName": "Arizona",
       "capital": "Phoenix",
       "key": "3"
     },
     {
-      "state": "Arkansas",
+      "stateName": "Arkansas",
       "capital": "Little Rock",
       "key": "4"
     },
     {
-      "state": "California",
+      "stateName": "California",
       "capital": "Sacramento",
       "key": "5"
     },
     {
-      "state": "Colorado",
+      "stateName": "Colorado",
       "capital": "Denver",
       "key": "6"
     },
     {
-      "state": "Connecticut",
+      "stateName": "Connecticut",
       "capital": "Hartford",
       "key": "7"
     },
     {
-      "state": "Delaware",
+      "stateName": "Delaware",
       "capital": "Dover",
       "key": "8"
     },
     {
-      "state": "Florida",
+      "stateName": "Florida",
       "capital": "Tallahassee",
       "key": "9"
     },
     {
-      "state": "Georgia",
+      "stateName": "Georgia",
       "capital": "Atlanta",
       "key": "10"
     },
     {
-      "state": "Hawaii",
+      "stateName": "Hawaii",
       "capital": "Honolulu",
       "key": "11"
     },
     {
-      "state": "Idaho",
+      "stateName": "Idaho",
       "capital": "Boise",
       "key": "12"
     },
     {
-      "state": "Illinois",
+      "stateName": "Illinois",
       "capital": "Springfield",
       "key": "13"
     },
     {
-      "state": "Indiana",
+      "stateName": "Indiana",
       "capital": "Indianapolis",
       "key": "51"
     },
     {
-      "state": "Iowa",
+      "stateName": "Iowa",
       "capital": "DesMoines",
       "key": "14"
     },
     {
-      "state": "Kansas",
+      "stateName": "Kansas",
       "capital": "Topeka",
       "key": "15"
     },
     {
-      "state": "Kentucky",
+      "stateName": "Kentucky",
       "capital": "Frankfort",
       "key": "16"
     },
     {
-      "state": "Louisiana",
+      "stateName": "Louisiana",
       "capital": "BatonRouge",
       "key": "17"
     },
     {
-      "state": "Maine",
+      "stateName": "Maine",
       "capital": "Augusta",
       "key": "18"
     },
     {
-      "state": "Maryland",
+      "stateName": "Maryland",
       "capital": "Annapolis",
       "key": "19"
     },
     {
-      "state": "Massachusetts",
+      "stateName": "Massachusetts",
       "capital": "Boston",
       "key": "20"
     },
     {
-      "state": "Michigan",
+      "stateName": "Michigan",
       "capital": "Lansing",
       "key": "21"
     },
     {
-      "state": "Minnesota",
+      "stateName": "Minnesota",
       "capital": "St. Paul",
       "key": "22"
     },
     {
-      "state": "Mississippi",
+      "stateName": "Mississippi",
       "capital": "Jackson",
       "key": "23"
     },  
     {
-      "state": "Missouri",
-      "capital": "Jefferson City'",
+      "stateName": "Missouri",
+      "capital": "Jefferson City",
       "key": "24"
     },
     {
-      "state": "Montana",
+      "stateName": "Montana",
       "capital": "Helena",
       "key": "25"
     },
     {
-      "state": "Nebraska",
+      "stateName": "Nebraska",
       "capital": "Lincoln",
       "key": "26"
     },
     {
-      "state": "Nevada",
+      "stateName": "Nevada",
       "capital": "Carson City",
       "key": "28"
     },
     {
-      "state": "New Hampshire",
+      "stateName": "New Hampshire",
       "capital": "Concord",
       "key": "29"
     },
     {
-      "state": "New Jersey",
+      "stateName": "New Jersey",
       "capital": "Trenton",
       "key": "30"
     },
     {
-      "state": "New Mexico",
+      "stateName": "New Mexico",
       "capital": "SantaFe",
       "key": "31"
     },
     {
-      "state": "New York",
+      "stateName": "New York",
       "capital": "Albany",
       "key": "32"
     },
     {
-      "state": "North Carolina",
+      "stateName": "North Carolina",
       "capital": "Raleigh",
       "key": "33"
     },
     {
-      "state": "North Dakota",
+      "stateName": "North Dakota",
       "capital": "Bismarck",
       "key": "34"
     },
     {
-      "state": "Ohio",
+      "stateName": "Ohio",
       "capital": "Columbus",
       "key": "35"
     },
     {
-      "state": "Oklahoma",
+      "stateName": "Oklahoma",
       "capital": "Oklahoma City",
       "key": "36"
     },
     {
-      "state": "Oregon",
+      "stateName": "Oregon",
       "capital": "Salem",
       "key": "37"
     },
     {
-      "state": "Pennsylvania",
+      "stateName": "Pennsylvania",
       "capital": "Harrisburg",
       "key": "38"
     },
     {
-      "state": "Rhode Island",
+      "stateName": "Rhode Island",
       "capital": "Providence",
       "key": "39"
     },
     {
-      "state": "South Carolina",
+      "stateName": "South Carolina",
       "capital": "Columbia",
       "key": "40"
     },
     {
-      "state": "South Dakota",
+      "stateName": "South Dakota",
       "capital": "Pierre",
       "key": "41"
     },
     {
-      "state": "Tennessee",
+      "stateName": "Tennessee",
       "capital": "Nashville",
       "key": "42"
     },
     {
-      "state": "Texas",
+      "stateName": "Texas",
       "capital": "Austin",
       "key": "43"
     },
     {
-      "state": "Utah",
+      "stateName": "Utah",
       "capital": "Salt Lake City",
       "key": "44"
     },
     {
-      "state": "Vermont",
+      "stateName": "Vermont",
       "capital": "Montpelier",
       "key": "45"
     },
     {
-      "state": "Virginia",
+      "stateName": "Virginia",
       "capital": "Richmond",
       "key": "46"
     },
     {
-      "state": "Washington",
+      "stateName": "Washington",
       "capital": "Olympia",
       "key": "47"
     },
     {
-      "state": "West Virginia",
+      "stateName": "West Virginia",
       "capital": "Charleston",
       "key": "48"
     },
     {
-      "state": "Wisconsin",
+      "stateName": "Wisconsin",
       "capital": "Madison",
       "key": "49"
     },
     {
-      "state": "Wyoming",
+      "stateName": "Wyoming",
       "capital": "Cheyenne",
       "key": "50"
     }
