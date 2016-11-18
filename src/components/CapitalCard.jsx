@@ -5,7 +5,7 @@ const CapitalCard = React.createClass({
   propTypes: {
     capital: React.PropTypes.string.isRequired,
     id: React.PropTypes.string.isRequired,
-    correct: React.PropTypes.bool.isRequired,
+    correct: React.PropTypes.bool,
     handleClick: React.PropTypes.func.isRequired
   },
   handleClick (event) {
