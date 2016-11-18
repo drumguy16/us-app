@@ -1,5 +1,6 @@
 const React = require('react')
 const {Link} = require('react-router')
+const {Grid} = require('react-bootstrap')
 
 const Layout = (props) => (
   <div className='app-container'>
@@ -17,7 +18,9 @@ const Layout = (props) => (
         </nav>
       </header>
     </div>
-    {props.children}
+    <Grid>
+      {props.children}
+    </Grid>
   </div>
 )
 
