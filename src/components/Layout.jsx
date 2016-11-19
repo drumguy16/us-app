@@ -14,6 +14,9 @@ const Layout = (props) => (
             <li>
               <Link to='state-capitals' className='nav-link'>State Capitals</Link>
             </li>
+            <li>
+              <Link to='civics-quiz' className='nav-link'>Civics Quiz</Link>
+            </li>
           </ul>
         </nav>
       </header>

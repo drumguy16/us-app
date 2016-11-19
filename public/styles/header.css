@@ -6,3 +6,12 @@
 .main-nav li {
   margin: 1rem;
 }
+
+.secondary-nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.secondary-nav li {
+  margin: 1rem;
+}
