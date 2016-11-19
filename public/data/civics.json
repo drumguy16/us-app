@@ -1,0 +1,449 @@
+{
+  "cards": [
+    {
+      "question": "What is the supreme law of the land?",
+      "answer": ["the Constitution"],
+      "key": "0",
+      "categories": ["Constitution"]
+    },
+    {
+      "question": "What does the Constitution do?",
+      "answer": [
+        "sets up the government",
+        "defines the government",
+        "protects basic rights of Americans"
+      ],
+      "key": "1",
+      "categories": ["Constitution"]
+    },
+    {
+      "question": "What is an amendment?",
+      "answer": [
+        "a change to the Constitution",
+        "an addition to the Constitution"
+      ],
+      "key": "2",
+      "categories": ["Constitution"]
+    },
+    {
+      "question": "What do we call the first ten amendments to the Constitution? ",
+      "answer": ["the Bill of Rights"],
+      "key": "3",
+      "categories": ["Constitution", "Bill Of Rights"]
+    },
+    {
+      "question": "What is one right or freedom from the First Amendment?",
+      "answer": [
+        "speech",
+        "religion",
+        "assembly",
+        "press",
+        "petition the government"
+      ],
+      "key": "4",
+      "categories": ["Constitution", "Bill Of Rights"]
+    },
+    {
+      "question": "How many amendments does the Constitution have?",
+      "answer": [
+        "twenty-seven"
+      ],
+      "key": "5",
+      "categories": ["Constitution"]
+    },
+    {
+      "question": "What did the Declaration of Independence do? ",
+      "answer": [
+        "announced our independence from Great Britain",
+        "declared our independence from Great Britain",
+        "said that the United States is free (from Great Britain)"
+      ],
+      "key": "6",
+      "categories": ["Declaration Of Independence"]
+    },
+    {
+      "question": "What are two rights in the Declaration of Independence? ",
+      "answer": [
+        "life",
+        "liberty",
+        "pursuit of happiness"
+      ],
+      "key": "7",
+      "categories": ["Declaration Of Independence"]
+    },
+    {
+      "question": "What is freedom of religion?",
+      "answer": [
+        "You can practice any religion, or not practice a religion"
+      ],
+      "key": "8",
+      "categories": ["Constitution", "Declaration Of Independence"]
+    },
+    {
+      "question": "The idea of self-government is in the first three words of the Constitution. What are these words? ",
+      "answer": ["We the People"],
+      "key": "",
+      "categories": ["Constitution"]
+    }
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+    // {
+    //   "question": "",
+    //   "answer": ""
+    // },
+  ]
+}
